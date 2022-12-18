@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://zhuanggw.com/sitemap.xml
+Sitemap: https://zhuanggw.com/baidusitemap.xml
