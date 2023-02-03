@@ -1,6 +1,7 @@
 # hexo robots.txt
 User-agent: *
 Allow: /
+Disallow:
 
 Sitemap: https://zhuanggw.com/sitemap.xml
 Sitemap: https://zhuanggw.com/baidusitemap.xml
