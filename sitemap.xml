@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhuanggw.com/archives/be82d226.html</loc>
-    
-    <lastmod>2022-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhuanggw.com/archives/4a17b156.html</loc>
-    
-    <lastmod>2022-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhuanggw.com/link/index.html</loc>
     
-    <lastmod>2022-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhuanggw.com/categories/index.html</loc>
-    
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,34 @@
   <url>
     <loc>https://zhuanggw.com/tags/index.html</loc>
     
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuanggw.com/archives/4a17b156.html</loc>
+    
+    <lastmod>2023-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuanggw.com/archives/be82d226.html</loc>
+    
+    <lastmod>2023-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuanggw.com/categories/index.html</loc>
+    
+    <lastmod>2023-02-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
