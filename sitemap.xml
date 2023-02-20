@@ -4,7 +4,7 @@
   <url>
     <loc>https://zhuanggw.com/link/index.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://zhuanggw.com/tags/index.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://zhuanggw.com/archives/4a17b156.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://zhuanggw.com/archives/be82d226.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://zhuanggw.com/categories/index.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://zhuanggw.com/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -59,14 +59,14 @@
   
   <url>
     <loc>https://zhuanggw.com/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhuanggw.com/categories/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
